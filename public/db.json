@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "0",
+      "content": "yabadabadu",
+      "score": 0,
+      "hidden": false,
+      "createdAt": "2026-11-24T13:14"
+    },
+    {
+      "content": "asdasdasda",
+      "score": 111111,
+      "createdAt": "2026-11-24T13:48",
+      "id": "b0Fz_EqllxE"
+    },
+    {
+      "content": "adadasdasdfsasfdsadsfsafdsfdasfdasfda",
+      "score": 111111111111111,
+      "createdAt": "2026-11-24T13:49",
+      "id": "hEIa-Ri0L-Y"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
